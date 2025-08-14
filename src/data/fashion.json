@@ -1,0 +1,79 @@
+[
+  {
+    "dress": [
+      {
+        "cloth": "lycra",
+        "name": "full sleeve Shirt",
+        "image": "/images/shirt1.png",
+        "size": ["M", "L", "XL"],
+        "available": "100",
+        "price": "699"
+      },
+      {
+        "cloth": "Cotton",
+        "name": "full hand Shirt",
+        "image": "/images/shirt2.png",
+        "size": ["M", "L", "XL"],
+        "available": "100",
+        "price": "899"
+      },
+      {
+        "cloth": "Cotton",
+        "name": "2 Plain TShirt",
+        "image": "/images/2solidtshirt.webp",
+        "size": ["M", "L", "XL"],
+        "available": "100",
+        "price": "799"
+      },
+      {
+        "cloth": "lycra",
+        "name": "formal Shirt",
+        "image": "/images/shirt3.png",
+        "size": ["M", "L", "XL"],
+        "available": "100",
+        "price": "799"
+      },
+      {
+        "cloth": "Cotton",
+        "name": "Round Neck Polo Shirt",
+        "image": "/images/polotshirt.webp",
+        "size": ["M", "L", "XL"],
+        "available": "100",
+        "price": "799"
+      }
+    ],
+
+    "accessories": [
+      {
+        "name": "Stylish Men Wallet",
+        "image": "/images/wallet.png",
+        "available": "100",
+        "price": "299"
+      },
+      {
+        "name": "Cooling glass",
+        "image": "/images/sunglass.gif",
+        "available": "100",
+        "price": "149"
+      },
+      {
+        "name": "Formal Analog Watch",
+        "image": "/images/analogwatch.gif",
+        "available": "100",
+        "price": "318"
+      },
+      {
+        "name": "Sports Shoe",
+        "image": "/images/shoe.webp",
+        "available": "100",
+        "price": "999"
+      },
+      {
+        "name": "Formal Shoe",
+        "image": "/images/formalshoe.jpeg",
+        "available": "100",
+        "price": "999"
+      }
+    ]
+  }
+]

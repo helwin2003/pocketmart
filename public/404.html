@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/pocketmart/" />
+    <script>
+      (function() {
+        var path = window.location.pathname;
+        var repo = "/pocketmart";
+        if (!path.startsWith(repo)) path = repo + path;
+        window.location.replace(repo + "/#" + path.replace(repo, ""));
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

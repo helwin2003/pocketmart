@@ -1,0 +1,101 @@
+[
+  {
+    "fruits": [
+      {
+        "name": "Apple",
+        "type": "pack (1kg)",
+        "image": "/images/apple.png",
+        "quantity": "50",
+        "price": "200"
+      },
+      {
+        "name": "Orange",
+        "type": "pack (1kg)",
+        "image": "/images/orange.png",
+        "quantity": "100",
+        "price": "180"
+      },
+      {
+        "name": "Grapes",
+        "type": "pack (1kg)",
+        "image": "/images/grapes.png",
+        "quantity": "40",
+        "price": "150"
+      },
+      {
+        "name": "Mango",
+        "type": "pack (1kg)",
+        "image": "/images/mango.png",
+        "quantity": "50",
+        "price": "60"
+      },
+      {
+        "name": "Strawberry",
+        "type": "pack (0.5kg)",
+        "image": "/images/strawberry.png",
+        "quantity": "10",
+        "price": "25"
+      },
+      {
+        "name": "Bomegranete",
+        "type": "pack (1kg)",
+        "image": "/images/pomegranete.png",
+        "quantity": "10",
+        "price": "40"
+      }
+    ],
+    "vegetables": [
+      {
+        "name": "Tomato",
+        "type": "pack (1kg)",
+        "image": "/images/tomato.png",
+        "quantity": "20",
+        "price": "25"
+      },
+      {
+        "name": "Brinjal",
+        "type": "pack (1kg)",
+        "image": "/images/brinjal.png",
+        "quantity": "25",
+        "price": "15"
+      },
+      {
+        "name": "Potato",
+        "type": "pack (1kg)",
+        "image": "/images/potato.png",
+        "quantity": "30",
+        "price": "18"
+      }
+    ],
+    "bakery": [
+      {
+        "name": "Bread",
+        "type": "pack (10 piece)",
+        "image": "/images/bread.png",
+        "quantity": "30",
+        "price": "15"
+      },
+      {
+        "name": "Plum Cake",
+        "type": "pack (1kg)",
+        "image": "/images/cake.png",
+        "quantity": "20",
+        "price": "100"
+      },
+      {
+        "name": "Cookies",
+        "type": "pack (10 piece)",
+        "image": "/images/cookies.png",
+        "quantity": "50",
+        "price": "25"
+      },
+      {
+        "name": "Soan Papdi",
+        "type": "pack (10 piece)",
+        "image": "/images/soan.png",
+        "quantity": "50",
+        "price": "60"
+      }
+    ]
+  }
+]

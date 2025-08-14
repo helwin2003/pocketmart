@@ -1,0 +1,14 @@
+.scroll-container {
+  display: flex;
+  overflow-x: auto;
+  gap: 1rem;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 1rem;
+  padding-top: 0.5rem;
+}
+
+.scroll-card {
+  min-width: 280px;
+  scroll-snap-align: start;
+  flex-shrink: 0;
+}

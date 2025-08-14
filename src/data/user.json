@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Helwin Rajadurai",
+    "username": "helwin",
+    "phone": "1545786598",
+    "door_street": "1/7, Muthaiya street",
+    "place": "Sadayappapuram",
+    "city": "Mukkudal",
+    "district": "Tirunelveli - 627601",
+    "password": "@Helwin2003"
+  },
+  {
+    "id": "2",
+    "name": "Stutzen",
+    "username": "stutzen",
+    "phone": "9876543210",
+    "door_street": "1A, North Street",
+    "place": "Mukkudal",
+    "city": "Mukkudal",
+    "district": "Tirunelveli - 627601",
+    "password": "123"
+  }
+]

@@ -1,0 +1,23 @@
+#toggle-button {
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  z-index: 1300;
+  background: transparent;
+  border: none;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fixed-sider {
+  position: fixed;
+  top: 64px;
+  left: 0;
+  bottom: 0;
+  height: calc(100vh - 64px);
+  overflow-y: auto;
+  z-index: 100;
+}
